@@ -1,0 +1,12 @@
+-e git+https://github.com/francescomontagna/causally@a9e7e1a34d762861f0118556ef70d8c8923e1d32#egg=causally
+-e git+https://github.com/py-why/dodiscover@f0affa5fa6d2cd84383662c255da385fee0566d6#egg=dodiscover
+
+causal-learn==0.1.3.8
+cdt==0.6.0
+flaky==3.8.1
+lingam==1.8.3
+pip-chill==1.0.3
+seaborn==0.13.2
+snakeviz==2.2.0
+tzdata==2023.3
+xgboost==2.0.3
